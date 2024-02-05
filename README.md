@@ -3,7 +3,7 @@
 ## Table Of Contents
 - [Project Agenda](#Project-Agenda)
 - [Data Source](#Data-Source)
-- [Insigh into Dataset](#Insigh-into-Dataset)
+- [Insight into Dataset](#Insigh-into-Dataset)
 - [Tools](#tools)
 - [Dashboard](#dashboard)
 
